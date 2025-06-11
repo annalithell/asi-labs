@@ -16,6 +16,7 @@ This advanced course is complemented by these lab sessions to guide students thr
 | **Week 2** | Logistic regression with MCMC | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eurecom-ds/asi-labs/blob/master/lab_week2/Bayesian_Logistic_Regression_MCMC.ipynb)|
 | **Week 3** | Gaussian process regression   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eurecom-ds/asi-labs/blob/master/lab_week3/Gaussian_Process_Regression.ipynb)|
 | **Week 4** | Logistic regression with variational inference  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eurecom-ds/asi-labs/blob/master/lab_week4/Variational_Logistic_Regression.ipynb)|
+| **Week 5** | Variational Autoencoders         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eurecom-ds/asi-labs/blob/master/lab_week5/Variational_autoencoders.ipynb) |
 
 
 > [!TIP]
